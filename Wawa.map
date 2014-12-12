@@ -1,0 +1,27 @@
+<img src="Bez nazwy" width="500" height="530" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:tjb -->
+<area shape="poly" coords="81,34,99,58,94,85,134,133,174,154,255,120,277,123,283,92,276,30,262,10,138,7,78,25,81,29,79,25" onmouseover="alert(&quot;Białołęka&quot;);" href="Białołęka" />
+<area shape="poly" coords="85,90,28,108,33,172,123,208,165,161,135,146,131,143" onmouseover="alert(&quot;Bielany&quot;);" href="Bielany" />
+<area shape="poly" coords="169,165,188,211,117,216" onmouseover="alert(&quot;Żoliborz&quot;);" href="Żoliborz" />
+<area shape="poly" coords="37,179,21,231,28,307,79,300,89,291,85,279,89,244,117,210,40,180" onmouseover="alert(&quot;Bemowo&quot;);" href="Bemowo" />
+<area shape="poly" coords="25,311,82,343,75,351,22,360,21,344,8,350,3,315" onmouseover="alert(&quot;Ursus&quot;);" href="Ursus" />
+<area shape="poly" coords="41,308,81,303,99,310,112,326,159,344,163,444,87,394,75,361,82,341" onmouseover="alert(&quot;Włochy&quot;);" href="Włochy" />
+<area shape="poly" coords="156,339,112,324,104,307,177,277,184,307,162,306" onmouseover="alert(&quot;Ochota&quot;);" href="Ochota" />
+<area shape="poly" coords="179,272,153,214,116,221,93,245,87,278,91,293,82,301,98,306" onmouseover="alert(&quot;Wola&quot;);" href="Wola" />
+<area shape="poly" coords="158,218,182,272,189,305,205,301,214,313,248,295,233,283,191,218" onmouseover="alert(&quot;Śródmieście&quot;);" href="Śródmieście" />
+<area shape="poly" coords="303,185,361,174,380,152,381,183,401,221,392,235,347,251,342,242,335,253,309,214" onmouseover="alert(&quot;Rembertów&quot;);" href="Rembertów" />
+<area shape="poly" coords="277,125,306,211,259,216,208,190,197,145,257,123" onmouseover="alert(&quot;Targówek&quot;);" href="Targówek" />
+<area shape="poly" coords="305,215,331,254,287,297,247,286,222,253,247,219" onmouseover="alert(&quot;Praga Południe&quot;);" href="Praga Południe" />
+<area shape="poly" coords="174,158,192,149,205,193,251,217,220,250,194,217" onmouseover="alert(&quot;Praga Północ&quot;);" href="Praga Północ" />
+<area shape="poly" coords="389,245,402,222,472,209,485,311,463,334,435,333,428,268" onmouseover="alert(&quot;Wesoła&quot;);" href="Wesoła" />
+<area shape="poly" coords="387,245,342,257,338,248,291,295,305,321,307,351,381,432,487,429,490,355,465,335,435,337,426,270" onmouseover="alert(&quot;Wawer&quot;);" href="Wawer" />
+<area shape="poly" coords="303,344,235,389,303,508,364,433" onmouseover="alert(&quot;Wilanów&quot;);" href="Wilanów" />
+<area shape="poly" coords="238,383,163,386,164,449,152,464,157,516,271,525,298,512,235,389" onmouseover="alert(&quot;Ursynów&quot;);" href="Ursynów" />
+<area shape="poly" coords="163,384,164,311,202,305,215,321,250,299,274,296,291,312,298,345,239,381" onmouseover="alert(&quot;Mokotów&quot;);" href="Mokotów" />
+</map>
