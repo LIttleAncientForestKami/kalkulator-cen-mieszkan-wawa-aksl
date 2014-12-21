@@ -47,6 +47,7 @@
 
 	function bierzCeny() {
 		var xhr = new XMLHttpRequest();
+		xhr.open('GET',"http://otodom.pl/rpc/evaluator.php?city=Warszawa&object=Flat&offer=sell&months=6&quarter=Bemowo&area=20");
 
 		xhr.onload = function() {
 		 var responseText = xhr.responseText;
@@ -58,9 +59,7 @@
 		  console.log('There was an error!');
 		};
 
-		xhr.open('GET',"http://otodom.pl/rpc/evaluator.php?city=Warszawa&object=Flat&offer=sell&months=6&quarter=Bemowo&area=20");
-		xhr.send();
-
+		xhr.send(null);
 /*
 		$.get( 
 		  "http://otodom.pl/rpc/evaluator.php?city=Warszawa&object=Flat&offer=sell&months=6&quarter=Bemowo&area=20",
