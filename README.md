@@ -6,5 +6,10 @@ Niestety, jeszcze nie przeskoczyłem CORSa, czyli by JS z domeny A był obsłuż
 Póki co, pobaw się interfejsem. :-)
 
 TJB
+PS. Podatność w tej wersji jQuery, zatem przed użyciem sugeruję podbić do nowej wersji.
 
+Zarchiwizowano
+==============
+
+Od niemal dekady nierozwijane. Zarchiwizowano 10 listopada 2023.
 
